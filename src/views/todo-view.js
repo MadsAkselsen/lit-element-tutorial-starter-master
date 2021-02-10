@@ -1,4 +1,4 @@
-const { LitElement } = require('lit-element');
+import { LitElement, html } from 'lit-element';
 
 class TodoView extends LitElement {
   render() {
